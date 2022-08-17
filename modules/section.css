@@ -1,0 +1,6 @@
+.container{
+  background-color: red;
+  max-width: var(--max-width-container);
+  margin: 0 auto;
+  padding: var(--padding-container);
+}
